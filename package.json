@@ -19,5 +19,29 @@
     },
     "scripts": {
         "format": "yarn prettier . --write"
+    },
+    "repository": "github:@jabberwocky-db/jest-config",
+    "homepage": "https://github.com/jabberwocky-db/jest-config#readme",
+    "keywords": [
+        "jest",
+        "jest-config",
+        "jabberwocky",
+        "jabberwocky-db",
+        "testing",
+        "test"
+    ],
+    "author": {
+        "name": "Jabberwocky DB",
+        "email": "zach@jwocky.com"
+    },
+    "contributors": [
+        {
+            "name": "Zachary Raineri",
+            "email": "zach@jwocky.com"
+        }
+    ],
+    "bugs": {
+        "url": "https://github.com/jabberwocky-db/jest-config/issues",
+        "email": "zach@jwocky.com"
     }
 }
