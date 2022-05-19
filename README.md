@@ -12,7 +12,7 @@
   <a href="https://www.npmjs.com/package/@jabberwocky-db/jest-config" target="_blank" >
     <img alt="downloads" src="https://img.shields.io/npm/dm/@jabberwocky-db/jest-config.svg?color=purple&style=for-the-badge"/>
   </a>
-  <a href="https://bundlephobia.com/package/@jabberwocky-db/jest-config@2.0.0" target="_blank" >
+  <a href="https://img.shields.io/bundlephobia/min/@jabberwocky-db/jest-config" target="_blank" >
     <img src="https://img.shields.io/bundlephobia/min/@jabberwocky-db/jest-config?style=for-the-badge&color=teal"/>
   </a>
 </p>
