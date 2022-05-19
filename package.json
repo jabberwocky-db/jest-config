@@ -10,5 +10,13 @@
         "jest": "^28.1.0",
         "ts-jest": "^28.0.2",
         "typescript": "^4.6.4"
+    },
+    "packageManager": "yarn@3.2.1",
+    "prettier": "@jabberwocky-db/prettier-config",
+    "devDependencies": {
+        "@jabberwocky-db/prettier-config": "^2.0.3"
+    },
+    "scripts": {
+        "format": "yarn prettier . --write"
     }
 }
